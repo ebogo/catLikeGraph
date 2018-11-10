@@ -4,6 +4,12 @@ using UnityEngine;
 
 public enum GraphFunctionName {
     SINE,
-    MULTISINE
+    SINE2D,
+    MULTISINE,
+    MULTISINE2D,
+    RIPPLE,
+    CYLINDER,
+    SPHERE,
+    TORUS
 
 }
